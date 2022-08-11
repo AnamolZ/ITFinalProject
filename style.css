@@ -88,6 +88,69 @@
     font-size: 20px;
 }
 
+.insidebody{
+    margin-top: 70px;
+}
+
+.insidebody tr td{
+    padding-left: 100px;
+}
+
+#middlebody {
+    position:relative;
+}
+
+#chickencover{
+    border-radius:10px;
+    margin-left: 420px;
+    margin-top: 100px;
+    width: 384px;
+}
+
+#chickenlogo {
+    margin-left: 400px;
+    margin-top: 270px;
+    width: 80px;
+    position: absolute;
+    left: 50px;
+    top: 50px;
+    border-radius: 15px;
+}
+
+#onigiricover{
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-top: 100px;
+    width: 384px;
+}
+
+#onigirilogo {
+    margin-left: 800px;
+    margin-top: 270px;
+    width: 80px;
+    position: absolute;
+    left: 50px;
+    top: 50px;
+    border-radius: 15px;
+}
+
+#nftfilmcover{
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-top: 100px;
+    width: 384px;
+}
+
+#nftfilmlogo {
+    margin-left: 1200px;
+    margin-top: 270px;
+    width: 80px;
+    position: absolute;
+    left: 50px;
+    top: 50px;
+    border-radius: 15px;
+}
+
 .explore{
     margin-top: 20px;
     align-items: center;
@@ -120,6 +183,30 @@
     box-shadow: #00000033 0 15px 30px -5px;
     box-sizing: border-box;
     color: #ffffff;
+    display: inline-block;
+    font-size: 20px;
+    justify-content: center;
+    line-height: 1em;
+    max-width: 100%;
+    min-width: 140px;
+    padding: 19px 24px;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    white-space: nowrap;
+    cursor: pointer;
+}
+
+.ranking{
+    margin-left: 900px;
+    margin-top: 50px;
+    align-items: center;
+    background-image: linear-gradient(144deg,#AF40FF, #5B42F3 50%,#00DDEB);
+    border: 0;
+    border-radius: 8px;
+    box-shadow: rgba(151, 65, 252, 0.2) 0 15px 30px -5px;
+    box-sizing: border-box;
+    color: #FFFFFF;
     display: inline-block;
     font-size: 20px;
     justify-content: center;
