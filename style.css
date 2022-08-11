@@ -63,6 +63,84 @@
     cursor: pointer;
 }
 
+.chicken{
+    position: absolute;
+    margin-left: 422px;
+    margin-top: 150px;
+    align-items: center;
+    background-color: #ffffff;
+    border: 0;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    box-shadow: rgba(151, 65, 252, 0.2) 0 15px 30px -5px;
+    box-sizing: border-box;
+    color: #6a88b4;
+    display: inline-block;
+    font-size: 20px;
+    justify-content: center;
+    line-height: 1em;
+    width: 384px;
+    padding: 19px 24px;
+    text-decoration: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    white-space: nowrap;
+    cursor: pointer;
+}
+
+.onigiri{
+    position: absolute;
+    margin-left: 12px;
+    margin-top: 330px;
+    align-items: center;
+    background-color: #ffffff;
+    border: 0;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    box-shadow: rgba(151, 65, 252, 0.2) 0 15px 30px -5px;
+    box-sizing: border-box;
+    color: #6a88b4;
+    display: inline-block;
+    font-size: 20px;
+    justify-content: center;
+    line-height: 1em;
+    width: 384px;
+    padding: 19px 24px;
+    text-decoration: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    white-space: nowrap;
+    cursor: pointer;
+}
+
+.nftfilmstudio{
+    position: absolute;
+    margin-left: 0px;
+    margin-top: 330px;
+    align-items: center;
+    background-color: #ffffff;
+    border: 0;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    box-shadow: rgba(151, 65, 252, 0.2) 0 15px 30px -5px;
+    box-sizing: border-box;
+    color: #6a88b4;
+    display: inline-block;
+    font-size: 20px;
+    justify-content: center;
+    line-height: 1em;
+    width: 388px;
+    padding: 19px 24px;
+    text-decoration: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    white-space: nowrap;
+    cursor: pointer;
+}
+
 .bodystart{
     margin-left: 300px;
 }
@@ -109,8 +187,8 @@
 
 #chickenlogo {
     margin-left: 400px;
-    margin-top: 270px;
-    width: 80px;
+    margin-top: 275px;
+    width: 60px;
     position: absolute;
     left: 50px;
     top: 50px;
@@ -126,8 +204,8 @@
 
 #onigirilogo {
     margin-left: 800px;
-    margin-top: 270px;
-    width: 80px;
+    margin-top: 275px;
+    width: 60px;
     position: absolute;
     left: 50px;
     top: 50px;
@@ -143,8 +221,8 @@
 
 #nftfilmlogo {
     margin-left: 1200px;
-    margin-top: 270px;
-    width: 80px;
+    margin-top: 275px;
+    width: 60px;
     position: absolute;
     left: 50px;
     top: 50px;
