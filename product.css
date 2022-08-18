@@ -1,0 +1,199 @@
+*{
+    font-family:Arial, Helvetica, sans-serif;
+}
+.store{
+    margin-left: 350px;
+    margin-top: 20px;
+    align-items: center;
+    background-image: linear-gradient(144deg,#AF40FF, #5B42F3 50%,#00DDEB);
+    border: 0;
+    border-radius: 8px;
+    box-shadow: rgba(135, 40, 243, 0.3) 0 15px 30px -5px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    display: inline-block;
+    font-size: 13px;
+    justify-content: center;
+    line-height: 1.5em;
+    height: 50px;
+    width: 198px;
+    touch-action: manipulation;
+    white-space: nowrap;
+    cursor: pointer;
+}
+#firstp1{
+    float:left;
+    font-size: 20px;
+    margin-left: 345px;
+    line-height:30px;
+}
+#firsth1{
+    margin-top: 100px;
+    margin-left: 340px;
+}
+#firstimg{
+    float:right;
+    width: 550px;
+    margin-right: 320px;
+}
+#secondimg{
+    float:left;
+    margin-left: 260px;
+    margin-top: 180px;
+    width: 550px;
+}
+#secondp2{
+    float: right;
+    font-size: 20px;
+    margin-top: 5px;
+    margin-right: 260px;
+    line-height: 30px;
+    float:right;
+}
+#secondh1{
+    margin-top: 200px;
+    margin-left: 1120px;
+}
+.pc{
+    margin-left: 320px;
+    margin-top: 20px;
+    align-items: center;
+    background-image: linear-gradient(144deg,#AF40FF, #5B42F3 50%,#00DDEB);
+    border: 0;
+    border-radius: 8px;
+    box-shadow: rgba(135, 40, 243, 0.3) 0 15px 30px -5px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    display: inline-block;
+    font-size: 13px;
+    justify-content: center;
+    line-height: 1.5em;
+    height: 50px;
+    width: 198px;
+    touch-action: manipulation;
+    white-space: nowrap;
+    cursor: pointer;
+}
+.pclin{
+    margin-left: 1130px;
+    margin-top: 20px;
+    align-items: center;
+    background-image: linear-gradient(144deg,#AF40FF, #5B42F3 50%,#00DDEB);
+    border: 0;
+    border-radius: 8px;
+    box-shadow: rgba(135, 40, 243, 0.3) 0 15px 30px -5px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    display: inline-block;
+    font-size: 13px;
+    justify-content: center;
+    line-height: 1.5em;
+    height: 50px;
+    width: 198px;
+    touch-action: manipulation;
+    white-space: nowrap;
+    cursor: pointer;
+}
+
+#thirdimg{
+    width: 550px;
+    float:right;
+    margin-top: 120px;
+    margin-right: 280px;
+}
+
+#thirdh1{
+    margin-top: 210px;
+    margin-left: 330px;
+}
+#thirdp3{
+    font-size: 20px;
+    line-height:30px;
+    margin-left: 330px;
+}
+#fourthimg{
+    width: 500px;
+    margin-top: 100px;
+    margin-left: 220px;
+    float: left;
+}
+#fourthh1{
+    float: right;
+    margin-top: 120px;
+    margin-right: 550px;
+}
+#fourthp4{
+    float: right;
+    margin-right: 250px;
+    letter-spacing: 1px;
+    font-size: 20px;
+}
+.auth{
+    float: right;
+    margin-right: 550px;
+    margin-top: 20px;
+    align-items: center;
+    background-image: linear-gradient(144deg,#AF40FF, #5B42F3 50%,#00DDEB);
+    border: 0;
+    border-radius: 8px;
+    box-shadow: rgba(135, 40, 243, 0.3) 0 15px 30px -5px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    display: inline-block;
+    font-size: 13px;
+    justify-content: center;
+    line-height: 1.5em;
+    height: 50px;
+    width: 198px;
+    touch-action: manipulation;
+    white-space: nowrap;
+    cursor: pointer;
+}
+
+.form form{
+    position: absolute;
+    margin-top: 160px;
+    margin-left: 158px;
+    height: 45px;
+    background: white;
+    box-sizing: border-box;
+    border-radius: 9px;
+    width: 500px;
+    cursor: pointer;
+}
+
+input{
+    position: absolute;
+    width: 500px;
+    height: 45px;
+    line-height: 30px;
+    outline: 0;
+    border: 0;
+    font-size: 1em;
+    border-radius: 9px;
+    padding: 0 20px;
+    display: block;
+}
+
+.signupbutton {
+    margin-top: 160px;
+    margin-left: 710px;
+    align-items: center;
+    background-color:#2081E2;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 15px;
+    border-style: none;
+    box-sizing: border-box;
+    color: #ffffff;
+    cursor: pointer;
+    display: inline-flex;
+    font-size: 14px;
+    font-weight: 500;
+    height: 48px;
+    letter-spacing: .25px;
+    line-height: normal;
+    max-width: 100%;
+    overflow: visible;
+    padding: 2px 24px;
+    position: absolute;
+}
