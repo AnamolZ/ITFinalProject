@@ -56,9 +56,10 @@ text-decoration: none;
     border: 0;
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
+    background-image: linear-gradient(144deg,#AF40FF, #5B42F3 50%,#00DDEB);
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     box-sizing: border-box;
-    color: #6a88b4;
+    color:aliceblue;
     display: inline-block;
     font-size: 20px;
     justify-content: center;
@@ -144,22 +145,22 @@ input{
 #checkbox{
     float: left;
     top: 0;
-    margin-top:355px;
-    margin-left: 200px;
+    margin-top:420px;
+    margin-left: 250px;
     width: 20px;
 }
 #checkbox1{
     float: left;
     top: 1;
     margin-top:42px;
-    margin-left: 200px;
+    margin-left: 250px;
     width: 20px;
 }
 #checkbox2{
     position: absolute;
     float: left;
     top: 0;
-    margin-top:480px;
-    margin-left: 200px;
+    margin-top:545px;
+    margin-left: 250px;
     width: 20px;
 }
