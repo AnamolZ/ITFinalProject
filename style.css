@@ -5,7 +5,6 @@
     font-family:sans-serif;
     background-color: #FFFFFF;
 }
-
 .bodyentry{
     margin-top: 180px;
     margin-left: 305px;
@@ -14,18 +13,15 @@
     font-size: 40px;
     color:#04111D;
 }
-
 .p p{
     font-size: 25px;
     color: #353840;
     margin-top: 15px;
 }
-
 .p2 p{
     margin-top: 40px;
     color:#2081E2;
 }
-
 .sideimgattop img{
     float: right;
     margin-top: 50px;
@@ -35,7 +31,6 @@
     border-top-left-radius: 12px;
     border-top-right-radius: 12px;
 }
-
 .patagorilla{
     margin-left: 1078px;
     margin-top: 0px;
@@ -60,7 +55,6 @@
     white-space: nowrap;
     cursor: pointer;
 }
-
 .chicken{
     position: absolute;
     margin-left: 307px;
@@ -86,7 +80,6 @@
     white-space: nowrap;
     cursor: pointer;
 }
-
 .onigiri{
     position: absolute;
     margin-left: 77px;
@@ -113,7 +106,6 @@
     white-space: nowrap;
     cursor: pointer;
 }
-
 .nftfilmstudio{
     position: absolute;
     margin-left: 77px;
@@ -139,7 +131,6 @@
     white-space: nowrap;
     cursor: pointer;
 }
-
 .notebook{
     position: absolute;
     margin-left: 310px;
@@ -165,7 +156,6 @@
     white-space: nowrap;
     cursor: pointer;   
 }
-
 .opensealogo{
     position: absolute;
     margin-left: 85px;
@@ -191,7 +181,6 @@
     white-space: nowrap;
     cursor: pointer;   
 }
-
 .twopeoplesharingsomething{
     position: absolute;
     margin-left: 75px;
@@ -217,7 +206,6 @@
     white-space: nowrap;
     cursor: pointer;  
 }
-
 .last_button{
     margin-left: 840px;
     margin-top: 120px;
@@ -241,29 +229,23 @@
     white-space: nowrap;
     cursor: pointer;
 }
-
 .body_note_third p{
     margin-top: 30px;
     margin-left: 760px;
 }
-
-
 .body_note_third iframe{
     margin-top: 30px;
     margin-left: 390px;
 }
-
 .bodystart{
     margin-left: 300px;
 }
-
 .bodystart p{
     margin-top: 110px;
     margin-left: 520px;
     font-size: 30px;
     color: #353840;
 }
-
 .bodystart img{
     margin-top: 70px;
     margin-left: 8px;
@@ -278,26 +260,21 @@
     font-size: 20px;
     letter-spacing: 1.4px;
 }
-
 .insidebody{
     margin-top: 30px;
 }
-
 .insidebody tr td{
     padding-left: 80px;
 }
-
 #middlebody {
     position:relative;
 }
-
 #chickencover{
     border-radius:10px;
     margin-left: 305px;
     margin-top: 100px;
     width: 384px;
 }
-
 #chickenlogo {
     margin-left: 270px;
     margin-top: 275px;
@@ -307,14 +284,12 @@
     top: 50px;
     border-radius: 15px;
 }
-
 #onigiricover{
     border-radius: 10px;
     margin-left: 75px;
     margin-top: 100px;
     width: 384px;
 }
-
 #onigirilogo {
     margin-left: 728px;
     margin-top: 275px;
@@ -324,14 +299,12 @@
     top: 50px;
     border-radius: 15px;
 }
-
 #nftfilmcover{
     border-radius: 10px;
     margin-left: 75px;
     margin-top: 100px;
     width: 384px;
 }
-
 #nftfilmlogo {
     margin-left: 1190px;
     margin-top: 275px;
@@ -341,7 +314,6 @@
     top: 50px;
     border-radius: 15px;
 }
-
 .explore{
     margin-top: 20px;
     align-items: center;
@@ -364,7 +336,6 @@
     white-space: nowrap;
     cursor: pointer;
 }
-
 .create{
     margin-left: 20px;
     align-items: center;
@@ -387,7 +358,6 @@
     white-space: nowrap;
     cursor: pointer;
 }
-
 .ranking{
     margin-left: 870px;
     margin-top: 60px;
@@ -411,7 +381,6 @@
     white-space: nowrap;
     cursor: pointer;
 }
-
 .form form{
     position: absolute;
     margin-top: 160px;
@@ -423,7 +392,6 @@
     width: 500px;
     cursor: pointer;
 }
-
 input{
     position: absolute;
     width: 500px;
@@ -436,8 +404,6 @@ input{
     padding: 0 20px;
     display: block;
 }
-
-
 .signupbutton {
     margin-top: 160px;
     margin-left: 710px;
