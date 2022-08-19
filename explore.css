@@ -1,3 +1,53 @@
+
+body {
+    font-family: "Century Gothic", 'Lato', sans-serif;
+}
+
+a {
+text-decoration: none;
+}
+
+.nav{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 7vh;
+    position: relative;
+    background: #eee;
+    text-align: center;
+    padding: 0 2em;
+}
+
+.nav-container {
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 70px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    background: #fff;
+    z-index: 10;
+}
+
+.navi{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+    color: #000;
+    letter-spacing: 0.1rem;
+    transition: all 0.5s ease;
+    font-size: 0.8rem;
+}
+
+.navi:hover {
+    color:white;
+    background: rgba(102,177,241,0.8);
+    transition: all 0.5s ease;
+}
+
 .homeless{
     margin-left: 60px;
     margin-top: 250px;
